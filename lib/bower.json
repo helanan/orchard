@@ -1,0 +1,23 @@
+{
+  "name": "orchard",
+  "description": "Growing some trees",
+  "main": "index.js",
+  "authors": [
+    "Helana Nosrat <helana@myemma.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "trees"
+  ],
+  "homepage": "https://github.com/helanan/orchard",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1"
+  }
+}
